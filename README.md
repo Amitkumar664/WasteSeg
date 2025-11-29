@@ -62,6 +62,3 @@ This project aims to assist in automated waste sorting using image recognition t
 * Implement multi-class classification for more waste types.
 * Integrate with cloud-based AI platforms for scalability.
 
----
-
-Would you like me to make this into a **short abstract (around 150 words)** suitable for your **college project synopsis or report front page**?
